@@ -1,4 +1,4 @@
-# macOS Catalina EFIfor HP Pavilion 15
+# macOS Catalina EFI for HP Pavilion 15
 
 
 ## Specification
@@ -16,7 +16,7 @@
 - macOS Version : macOS Catalina 10.15.1 Build 20G95
 
 
-## Work
+## What is working?
 - QE/CI Graphics of Intel HD 4600
 - Restart, Shutdown and Sleep
 - CPU Power Management
